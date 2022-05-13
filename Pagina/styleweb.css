@@ -1,0 +1,141 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*Logo Davici*/
+.logito{
+    height: 30px;
+}
+
+
+
+
+
+
+/*Iconos del menu: Corazon, flechas, bolsa de compras*/
+.bi{
+    margin-right: 3px;
+}
+
+
+
+
+
+
+/*Zona de Iconos: Camion, tajerta, caja, raro*/
+.item{
+    margin-top: 30px;
+    height: 190px;
+    width: 400px;
+}
+
+.camion{
+    height: 40px;
+}
+
+.tarjeta{
+    height: 40px;
+}
+
+.cajita{
+    height: 40px;
+    width: 40px;
+}
+
+
+.raro{
+    height: 40px;
+    width: 40px;
+}
+
+
+
+
+
+/*Dos imagenes*/
+
+.image{
+    margin: 10px;
+}
+
+
+
+.image-1{
+    height: 400px;
+    width: 685px;
+}
+
+.image-2{
+    height: 400px;
+}
+
+
+
+
+
+/*Texto de New Arrivals*/
+.new{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.le{
+    text-align: center;
+}
+
+
+
+
+/*Fourth image*/
+.com{
+    width: 70%;
+    gap: 10px;
+}
+
+.pre{
+    color: orangered;
+}
+
+
+.imgd{
+    margin-top: 80px;
+}
+
+/*Two Images*/
+.gd{
+    width: 560px;
+    height: 400px;
+    margin: 10px;
+}
+
+.mv{
+    height: 290px;
+}
+
+.g4{
+    width: 250px;
+}
+
+.m{
+    margin-top: 15px;
+}
+
+.fo{
+    margin-top: 30px;
+}
+
+
+
+/*Image move*/
+.move{
+    
+    background-image:
+    url("https://www.homecenter.com.co/static/landing/guiasdecompra/Guias_de_compra_2/img/estilos-de-muebles-modernos/muebles-sala.jpg");
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat ;
+    height: 300px;
+}
+
+
+
